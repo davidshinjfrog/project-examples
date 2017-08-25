@@ -24,8 +24,8 @@ allprojects {
   apply plugin: 'java'
   apply plugin: 'maven'
 
-  group = 'org.jfrog.example.gradle'
-  version = '2.0'
+  group = 'org.jfrog.example.gradle.2.5'
+  version = '2.5'
   status = 'integration'
 }
 
