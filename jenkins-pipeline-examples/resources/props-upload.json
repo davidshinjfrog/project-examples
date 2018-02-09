@@ -2,7 +2,7 @@
   "files": [
     {
       "pattern": "jenkins-pipeline-examples/resources/ArtifactoryPipeline.zip",
-      "target": "libs-snapshot-local/test/",
+      "target": "libs-snapshot-local/test/ArtifactoryPipeline.zip",
       "props": "p1=v1;p2=v2"
     },
     {
